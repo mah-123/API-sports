@@ -1,0 +1,70 @@
+{
+  "sports": [
+    {
+      "id": 1,
+      "type": "Team Sports",
+      "examples": [
+        {"id": 101, "name": "Football"},
+        {"id": 102, "name": "Basketball"},
+        {"id": 103, "name": "Hockey"},
+        {"id": 104, "name": "Baseball"},
+        {"id": 105, "name": "Volleyball"}
+      ]
+    },
+    {
+      "id": 2,
+      "type": "Individual Sports",
+      "examples": [
+        {"id": 201, "name": "Tennis"},
+        {"id": 202, "name": "Boxing"},
+        {"id": 203, "name": "Golf"},
+        {"id": 204, "name": "Swimming"},
+        {"id": 205, "name": "Athletics"}
+      ]
+    },
+    {
+      "id": 3,
+      "type": "Water Sports",
+      "examples": [
+        {"id": 301, "name": "Sailing"},
+        {"id": 302, "name": "Surfing"},
+        {"id": 303, "name": "Rowing"},
+        {"id": 304, "name": "Diving"},
+        {"id": 305, "name": "Water Polo"}
+      ]
+    },
+    {
+      "id": 4,
+      "type": "Winter Sports",
+      "examples": [
+        {"id": 401, "name": "Skiing"},
+        {"id": 402, "name": "Snowboarding"},
+        {"id": 403, "name": "Ice Skating"},
+        {"id": 404, "name": "Curling"},
+        {"id": 405, "name": "Bobsleigh"}
+      ]
+    },
+    {
+      "id": 5,
+      "type": "Racquet Sports",
+      "examples": [
+        {"id": 501, "name": "Badminton"},
+        {"id": 502, "name": "Squash"},
+        {"id": 503, "name": "Table Tennis"},
+        {"id": 504, "name": "Pickleball"}
+      ]
+    },
+    {
+      "id": 6,
+      "type": "Combat Sports",
+      "examples": [
+        {"id": 601, "name": "Judo"},
+        {"id": 602, "name": "Karate"},
+        {"id": 603, "name": "Taekwondo"},
+        {"id": 604, "name": "Wrestling"},
+        {"id": 605, "name": "MMA"}
+      ]
+    }
+  ]
+}
+
